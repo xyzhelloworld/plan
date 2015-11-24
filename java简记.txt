@@ -1,0 +1,15 @@
+p54 说明public、protected、private、default的区别
+了解基本类型包装类
+p62 用BigDecimal进行精确计算
+p70 对象池
+p71 StringBuffer与StringBuilder
+---
+p93 java数组的实质
+了解IO，集合，线程常用方法
+阅读集合类源码（包括迭代器实现）
+vector与arraylist
+hashtable与hashmap
+如何对集合排序
+序列化
+手写生产者消费者多线程代码
+手写常见设计模式代码
